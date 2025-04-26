@@ -101,7 +101,7 @@ Sample input JSON you can use in Postman:
 Clone the repository:
 
 
-git clone https://github.com/your-username/Water-Potability-Prediction-Full-Stack-ML-Deployment-FastAPI-React-.git
+git clone https://github.com/EmenKhanNiazi/Water-Potability-Prediction-Full-Stack-ML-Deployment-FastAPI-React-.git
 Backend (FastAPI):
 
 bash
